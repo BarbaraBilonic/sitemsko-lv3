@@ -1,0 +1,8 @@
+﻿  lv3-zad1.cpp
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(41,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(41,9): message : consider using '%lld' in the format string
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(41,9): message : consider using '%I64d' in the format string
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(59,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(59,9): message : consider using '%lld' in the format string
+E:\faks\sistemsko_prog\lv3\lv3-zad1\lv3-zad1.cpp(59,9): message : consider using '%I64d' in the format string
+  lv3-zad1.vcxproj -> E:\faks\sistemsko_prog\lv3\lv3-zad1\Debug\lv3-zad1.exe
